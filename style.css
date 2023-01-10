@@ -1,0 +1,63 @@
+.parent{
+    border-color: rgb(214, 212, 212);
+    border: 2px solid;
+    padding: 20px;
+}
+.i{
+    color: rgb(250, 12, 12);
+    display: flex ;
+    flex-direction: column;
+    justify-content: center; 
+   
+}
+.row2{
+    display: flex ;
+    flex-direction: column;
+    justify-content: center; 
+}
+.row3{
+    display: flex ;
+   flex-direction: column;
+   justify-content: center;
+   width: 10px; 
+   margin-left: 300px ;
+   margin-right:500px;
+}
+
+.row4{
+    display: flex ;
+    flex-direction: column;
+    justify-content: center; 
+
+}
+.main2{
+   border: 2px solid;
+   border-color: rgb(253, 237, 237);
+   width: 200px;
+  height: 700px;
+}
+.main23{
+    border: 2px solid;
+    border-color: rgb(224, 224, 224);
+    height: 700px;
+}
+.fun{
+    padding: 10px;
+    margin-left: 60px;
+}
+.fun1{
+    padding: 10px;
+    margin-left: 60px;
+}
+.fun2{
+    padding: 10px;
+    margin-left: 60px;
+}
+.fun3{
+    padding: 10px;
+    margin-left: 60px;
+}
+.fun4{
+    padding: 10px;
+    margin-left: 60px;
+}
